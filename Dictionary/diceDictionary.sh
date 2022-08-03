@@ -16,7 +16,7 @@ z=0
 d1=0; d2=0; d3=0; d4=0; d5=0; d6=0;
 
 declare -a rolls
-decalre -A diceface
+declare -A diceface
 diceface=([1]=0 [2]=0 [3]=0 [4]=0 [5]=0 [6]=0)
 
 
